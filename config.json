@@ -44,7 +44,7 @@
         "decryption": "none"
       },
       "streamSettings": {
-        "network": "h2",
+        "network": "grpc",
         "security": "reality",
         "realitySettings": {
           "show": false,
