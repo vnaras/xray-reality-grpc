@@ -1,0 +1,7 @@
+{
+    "name": "vless+tls+h2+reality",
+    "email":"ar4s2",
+    "port": 3443,
+    "sni": "goo.gl",
+    "path": "%2F"
+}
